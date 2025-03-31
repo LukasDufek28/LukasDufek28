@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python, HTML, CSS
 - 💞️ I’m looking to collaborate on website and app development
 - 📫 How to reach me: donnytheretard on discord
-- 😄 Pronouns: call me whatever you wish
-- ⚡ Fun fact: Iam quite boring
+- 😄 Pronouns: braindead
+- ⚡ Fun fact:                           no
 
 <!---
 LukasDufek28/LukasDufek28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
